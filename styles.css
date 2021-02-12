@@ -1,0 +1,34 @@
+body{
+  background-color: green;
+}
+
+h1, h2{
+font-family: georgia, "Times New Roman", serif;
+
+}
+
+p{
+font-family: verdana, arial, sans-serif;
+}
+
+article {
+float:left;
+width: 500px;
+  margin: 10px;
+}
+
+footer{
+clear: both;
+font-family: verdana, arial, sans-serif;
+text-align: center
+}
+
+a:link{
+  text-decoration: none;
+  color: #639A00;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: #639A00;
+}
